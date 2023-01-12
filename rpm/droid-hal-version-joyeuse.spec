@@ -1,11 +1,11 @@
 # Feel free to cleanup this file by removing comments, once you have memorised them ;)
 
-%define device tucana
+%define device joyeuse
 %define vendor xiaomi
 
 # Manufacturer and device name to be shown in UI
 %define vendor_pretty Xiaomi
-%define device_pretty Mi Note 10
+%define device_pretty Redmi Note 9 Pro
 
 # See ../droid-hal-version/droid-hal-device.inc for similar macros:
 #define have_vibrator_native 1
